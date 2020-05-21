@@ -1,2 +1,2 @@
-# Dinic2
-Dinic
+# Ambulanta Dinic
+
